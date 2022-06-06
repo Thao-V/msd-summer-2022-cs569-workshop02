@@ -32,3 +32,5 @@ Student schema
 * App component shows the student module in the case there is a token in `localstorage`. Otherwises, it shows the auth module
 * Protect all other routes in your application with `Guards` to ensure a token exists before navigation.
 * Implement an interceptor to support sending the token in the request header if exists.
+
+## Please submit the workshop before 2:00 PM today (06/06/2022)
